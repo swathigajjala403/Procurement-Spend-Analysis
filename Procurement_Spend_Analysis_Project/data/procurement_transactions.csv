@@ -1,0 +1,601 @@
+Transaction_ID,Transaction_Date,Document_Type,Supplier_ID,Supplier_Name,Category,Item_Description,Business_Unit,Region,Quantity,Unit_Price_USD,Spend_USD,Payment_Status
+PO-00181,2025-01-01,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,East,24,430.14,10323.47,Paid
+PO-00580,2025-01-01,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,South,114,116.12,13237.8,Pending
+PO-00324,2025-01-02,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Technology,North,82,213.44,17502.05,Overdue
+PO-00391,2025-01-02,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Operations,North,81,183.35,14851.28,Paid
+PO-00494,2025-01-03,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Technology,East,95,73.03,6937.5,Paid
+PO-00271,2025-01-04,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Manufacturing,East,68,8.3,564.22,Paid
+PO-00354,2025-01-04,Goods Receipt,SUP007,BrightClean Facilities,Maintenance,Repair parts,Technology,North,108,58.46,6314.06,Overdue
+PO-00061,2025-01-04,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Manufacturing,South,115,104.85,12058.03,Pending
+PO-00506,2025-01-04,Purchase Order,SUP009,Summit Consulting,Professional Services,Audit support,Technology,South,30,452.51,13575.16,Paid
+PO-00413,2025-01-05,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Technology,East,77,151.88,11695.0,Overdue
+PO-00117,2025-01-05,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Natural gas,Sales,East,7,2005.17,14036.21,Paid
+PO-00331,2025-01-05,Invoice,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Operations,West,111,20.51,2276.22,Paid
+PO-00384,2025-01-06,Invoice,SUP005,Metro Logistics,Logistics,Freight services,Corporate,North,45,472.75,21273.78,Pending
+PO-00345,2025-01-06,Goods Receipt,SUP003,Northstar IT Services,IT Services,Cloud services,Operations,East,67,160.34,10742.45,Paid
+PO-00526,2025-01-06,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Corporate,South,67,425.3,28495.33,Overdue
+PO-00561,2025-01-06,Invoice,SUP001,,Office Supplies,Pens and stationery,Sales,North,18,759.91,13678.29,Overdue
+PO-00349,2025-01-07,Purchase Order,SUP004,North Star IT Svc,Professional Services,Business consulting,Manufacturing,West,20,592.25,11845.04,Paid
+PO-00466,2025-01-07,Goods Receipt,SUP009,Summit Consulting,Professional Services,Business consulting,Operations,East,7,1682.99,11780.93,Paid
+PO-00100,2025-01-08,Purchase Order,SUP009,Summit Consulting,Professional Services,Training services,Corporate,South,108,65.13,7034.0,Pending
+PO-00077,2025-01-09,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Manufacturing,East,32,229.71,7350.69,Pending
+PO-00593,2025-01-09,Invoice,SUP009,Summit Consulting,Professional Services,Business consulting,Operations,East,1,27266.31,27266.31,Paid
+PO-00021,2025-01-11,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,South,1,10641.31,10641.31,Paid
+PO-00419,2025-01-14,Invoice,SUP011,Vertex Marketing,Marketing,Print advertising,Sales,North,117,46.2,5405.41,Overdue
+PO-00176,2025-01-14,Purchase Order,SUP007,BrightClean Facilities,Maintenance,Equipment servicing,Operations,North,50,136.13,6806.43,Pending
+PO-00022,2025-01-17,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Manufacturing,South,86,86.49,7438.39,Overdue
+PO-00010,2025-01-17,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Technology,South,117,18.94,2215.87,Overdue
+PO-00382,2025-01-17,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Manufacturing,North,79,356.96,28199.88,Pending
+PO-00126,2025-01-20,Goods Receipt,SUP005,Metro Logistics,Logistics,Freight services,Sales,West,31,120.44,3733.6,Pending
+PO-00472,2025-01-21,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Corporate,East,21,230.7,4844.6,Pending
+PO-00218,2025-01-21,Invoice,SUP001,Apex Office Supplies,Professional Services,Business consulting,Manufacturing,South,67,367.78,24641.35,Pending
+PO-00572,2025-01-22,Invoice,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Technology,South,33,285.88,9434.16,Pending
+PO-00206,2025-01-22,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Operations,West,99,172.53,17080.02,Overdue
+PO-00394,2025-01-23,Invoice,SUP005,Metro Logistics,Logistics,Warehouse handling,Corporate,South,108,76.02,8210.33,Overdue
+PO-00516,2025-01-23,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Technology,North,103,41.0,4223.21,Pending
+PO-00509,2025-01-23,Goods Receipt,SUP003,Northstar IT Services,IT Services,Software support,Manufacturing,South,81,62.98,5101.68,Paid
+PO-00479,2025-01-23,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Operations,North,66,91.75,6055.61,Overdue
+PO-00187,2025-01-25,Invoice,SUP011,Vertex Marketing,Marketing,Print advertising,Sales,West,48,48.87,2345.61,Pending
+PO-00211,2025-01-26,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Technology,East,54,490.21,26471.12,Paid
+PO-00600,2025-01-26,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Manufacturing,North,58,123.19,7144.74,Paid
+PO-00573,2025-01-27,Invoice,SUP011,Vertex Marketing,Marketing,Print advertising,Corporate,South,82,26.09,2139.16,Pending
+PO-00425,2025-01-28,Goods Receipt,SUP003,Northstar IT Services,IT Services,Cloud services,Operations,East,53,118.72,6292.22,Overdue
+PO-00470,2025-01-28,Invoice,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Technology,South,112,33.49,3751.2,Overdue
+PO-00389,2025-01-28,Goods Receipt,SUP002,Apex Office Supply Ltd,,Toner cartridges,Manufacturing,East,53,330.99,17542.24,Overdue
+PO-00598,2025-01-29,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Manufacturing,North,54,463.74,25041.84,Overdue
+PO-00259,2025-01-30,Purchase Order,SUP009,Summit Consulting,Professional Services,Training services,Operations,East,68,189.18,12864.17,Paid
+PO-00321,2025-01-31,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Operations,East,111,36.58,4060.89,Paid
+PO-00581,2025-02-02,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Sales,South,25,590.58,14764.61,Overdue
+PO-00125,2025-02-02,Goods Receipt,SUP011,Vertex Marketing,Marketing,Print advertising,Corporate,South,39,420.0,16379.85,Paid
+PO-00480,2025-02-03,Goods Receipt,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,South,111,213.67,23717.81,Overdue
+PO-00048,2025-02-05,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,East,85,132.49,11262.02,Overdue
+PO-00084,2025-02-07,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Water services,Corporate,South,20,53.93,1078.53,Paid
+PO-00280,2025-02-10,Invoice,SUP009,Summit Consulting,Professional Services,Business consulting,Corporate,East,13,824.37,10716.75,Overdue
+PO-00229,2025-02-10,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Operations,East,96,209.82,20142.93,Overdue
+PO-00552,2025-02-10,Invoice,SUP003,Northstar IT Services,IT Services,IT consulting,Technology,West,84,115.86,9732.6,Pending
+PO-00397,2025-02-10,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Security services,Manufacturing,South,65,198.34,12891.79,Paid
+PO-00137,2025-02-11,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Manufacturing,East,36,61.12,2200.48,Pending
+PO-00032,2025-02-11,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,South,41,249.42,10226.26,Pending
+PO-00569,2025-02-11,Purchase Order,SUP003,Northstar IT Services,Utilities,Electricity,Technology,West,61,22.89,1396.36,Paid
+PO-00314,2025-02-12,Purchase Order,SUP010,Urban Energy Solutions,Facilities,Security services,Technology,South,36,148.4,5342.57,Pending
+PO-00357,2025-02-13,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Manufacturing,North,105,23.88,2507.23,Pending
+PO-00575,2025-02-15,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Corporate,North,80,37.28,2982.24,Pending
+PO-00330,2025-02-16,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Operations,West,10,393.6,3935.97,Paid
+PO-00286,2025-02-17,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,West,50,118.42,5920.81,Paid
+PO-00038,2025-02-17,Invoice,SUP011,Vertex Marketing,Marketing,Digital campaign,Technology,South,1,5067.04,5067.04,Overdue
+PO-00571,2025-02-18,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Technology,South,50,130.8,6539.96,Overdue
+PO-00165,2025-02-18,Goods Receipt,SUP009,Summit Consulting,Professional Services,Audit support,Operations,East,93,95.06,8840.93,Paid
+PO-00555,2025-02-18,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Manufacturing,North,7,1225.79,8580.56,Paid
+PO-00217,2025-02-19,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Operations,West,72,246.72,17763.76,Overdue
+PO-00514,2025-02-19,Goods Receipt,SUP003,Northstar IT Services,IT Services,IT consulting,Corporate,North,5,3777.98,18889.89,Pending
+PO-00128,2025-02-20,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Labels,Technology,South,36,469.73,16910.27,Pending
+PO-00299,2025-02-20,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Manufacturing,South,72,318.13,22905.34,Pending
+PO-00547,2025-02-20,Invoice,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Corporate,West,33,120.38,3972.56,Overdue
+PO-00177,2025-02-20,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Sales,South,18,792.77,14269.89,Overdue
+PO-00379,2025-02-21,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Sales,East,21,207.22,4351.58,Paid
+PO-00335,2025-02-21,Invoice,SUP003,,IT Services,Cloud services,Technology,South,50,362.49,18124.69,Paid
+PO-00373,2025-02-21,Goods Receipt,SUP004,North Star IT Svc,IT Services,Software support,Operations,West,105,79.1,8305.35,Pending
+PO-00007,2025-02-21,Purchase Order,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Technology,South,47,244.38,11486.04,Overdue
+PO-00567,2025-02-22,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Corporate,South,94,233.44,21943.1,Paid
+PO-00364,2025-02-22,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Operations,West,100,20.79,2078.5,Pending
+PO-00301,2025-02-23,Goods Receipt,SUP005,Metro Logistics,Logistics,Freight services,Technology,East,15,1962.45,29436.68,Pending
+PO-00437,2025-02-23,Purchase Order,SUP009,Summit Consulting,Professional Services,Training services,Operations,South,15,252.18,3782.66,Pending
+PO-00036,2025-02-23,Goods Receipt,SUP003,Northstar IT Services,IT Services,Software support,Technology,East,96,283.83,27247.71,Overdue
+PO-00116,2025-02-24,Goods Receipt,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,West,38,292.5,11114.92,Pending
+PO-00537,2025-02-24,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Corporate,North,85,143.57,12203.52,Pending
+PO-00016,2025-02-24,Purchase Order,SUP011,Vertex Marketing,Marketing,Digital campaign,Technology,South,78,148.01,11544.42,Overdue
+PO-00069,2025-02-25,Invoice,SUP010,Urban Energy Solutions,Packaging,Protective packaging,Operations,North,117,89.02,10415.25,Overdue
+PO-00013,2025-02-26,Goods Receipt,SUP003,Northstar IT Services,IT Services,Software support,Sales,West,55,441.46,24280.04,Overdue
+PO-00133,2025-02-26,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,North,46,53.84,2476.64,Paid
+PO-00252,2025-02-27,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Operations,North,99,76.93,,Paid
+PO-00447,2025-02-27,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Manufacturing,South,84,14.91,1252.45,Overdue
+PO-00508,2025-02-28,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Labels,Sales,North,76,114.27,8684.9,Paid
+PO-00195,2025-02-28,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Technology,East,50,180.86,9042.91,Overdue
+PO-00293,2025-02-28,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,West,24,747.96,17951.1,Overdue
+PO-00478,2025-02-28,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Manufacturing,West,4,3266.17,13064.68,Pending
+PO-00435,2025-03-01,Invoice,SUP007,BrightClean Facilities,Facilities,Security services,Operations,South,33,70.6,2329.88,Overdue
+PO-00442,2025-03-01,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Operations,East,2,8019.21,16038.42,Pending
+PO-00531,2025-03-01,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Sales,West,105,255.57,26834.33,Overdue
+PO-00533,2025-03-01,Invoice,SUP005,Metro Logistics,Facilities,Facility maintenance,Technology,North,30,407.44,12223.2,Overdue
+PO-00424,2025-03-02,Goods Receipt,SUP008,GreenLeaf Packaging,IT Services,Software support,Sales,East,25,582.3,14557.59,Pending
+PO-00522,2025-03-02,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Repair parts,Manufacturing,West,21,672.48,14121.99,Pending
+PO-00361,2025-03-03,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Manufacturing,North,106,116.86,12386.66,Paid
+PO-00142,2025-03-04,Invoice,SUP007,BrightClean Facilities,Facilities,Security services,Corporate,East,97,123.88,12016.29,Overdue
+PO-00228,2025-03-04,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Technology,North,51,135.47,6908.93,Pending
+PO-00570,2025-03-04,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Corporate,South,57,244.03,13909.51,Pending
+PO-00091,2025-03-05,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Labels,Sales,West,35,360.89,12631.24,Paid
+PO-00422,2025-03-07,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Technology,North,98,148.71,14573.19,Paid
+PO-00063,2025-03-07,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,North,76,214.95,16335.89,Overdue
+PO-00544,2025-03-09,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Manufacturing,West,93,157.83,14677.73,Pending
+PO-00433,2025-03-09,Purchase Order,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,West,22,824.01,18128.3,Overdue
+PO-00328,2025-03-09,Invoice,SUP011,Vertex Marketing,Marketing,Digital campaign,Technology,East,113,139.42,15754.69,Paid
+PO-00242,2025-03-10,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Manufacturing,West,78,172.94,13489.5,Overdue
+PO-00517,2025-03-10,Purchase Order,SUP005,Metro Logistics,Logistics,Courier services,Manufacturing,West,110,66.1,7271.46,Pending
+PO-00333,2025-03-10,Goods Receipt,SUP011,Vertex Marketing,Marketing,Digital campaign,Manufacturing,South,68,39.33,2674.21,Pending
+PO-00319,2025-03-13,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Technology,South,73,338.17,24686.17,Pending
+PO-00383,2025-03-14,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Corporate,East,41,181.42,7438.12,Pending
+PO-00310,2025-03-14,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Operations,West,74,247.74,18332.96,Overdue
+PO-00146,2025-03-15,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Electricity,Corporate,South,95,14.36,1364.19,Pending
+PO-00112,2025-03-16,Purchase Order,SUP004,North Star IT Svc,IT Services,Software support,Operations,North,102,170.65,17405.95,Overdue
+PO-00053,2025-03-17,Purchase Order,SUP001,Apex Office Supplies,Marketing,Print advertising,Sales,South,99,111.61,11049.58,Overdue
+PO-00258,2025-03-18,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Technology,South,61,379.27,23135.23,Pending
+PO-00090,2025-03-18,Invoice,SUP005,Metro Logistics,Logistics,Warehouse handling,Manufacturing,East,22,107.94,2374.57,Pending
+PO-00059,2025-03-19,Purchase Order,SUP004,North Star IT Svc,IT Services,Cloud services,Sales,East,28,173.17,4848.67,Overdue
+PO-00203,2025-03-20,Purchase Order,SUP005,Metro Logistics,Logistics,Courier services,Manufacturing,East,91,110.02,10011.6,Paid
+PO-00004,2025-03-21,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Technology,East,12,869.59,10435.13,Overdue
+PO-00148,2025-03-21,Invoice,SUP003,Northstar IT Services,IT Services,Cloud services,Sales,West,11,156.05,1716.58,Overdue
+PO-00348,2025-03-22,Goods Receipt,SUP005,Metro Logistics,Logistics,Freight services,Operations,North,87,314.78,27386.18,Paid
+PO-00232,2025-03-22,Invoice,SUP007,BrightClean Facilities,Facilities,Security services,Operations,East,61,260.1,15865.98,Pending
+PO-00486,2025-03-22,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Operations,East,102,224.53,22902.33,Overdue
+PO-00450,2025-03-22,Purchase Order,SUP009,Summit Consulting,Professional Services,Business consulting,Sales,East,112,233.01,26097.48,Paid
+PO-00590,2025-03-22,Invoice,SUP009,Summit Consulting,Professional Services,Audit support,Technology,East,46,297.17,13669.8,Pending
+PO-00475,2025-03-23,Purchase Order,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,East,45,162.96,7333.1,Pending
+PO-00212,2025-03-23,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Corporate,North,113,74.93,8466.65,Pending
+PO-00501,2025-03-23,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Sales,East,112,155.38,17402.44,Paid
+PO-00175,2025-03-24,Invoice,SUP005,Metro Logistics,Logistics,Freight services,Operations,West,107,147.74,15807.87,Pending
+PO-00411,2025-03-25,Purchase Order,SUP005,Metro Logistics,Logistics,Courier services,Corporate,South,37,571.41,21142.3,Overdue
+PO-00019,2025-03-26,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Operations,East,28,665.79,18642.03,Pending
+PO-00510,2025-03-27,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Corporate,East,52,305.92,15907.81,Paid
+PO-00527,2025-03-28,Purchase Order,SUP011,Vertex Marketing,Facilities,Facility maintenance,Sales,East,21,563.42,11831.74,Overdue
+PO-00367,2025-03-28,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,South,64,204.26,13072.82,Pending
+PO-00374,2025-03-30,Goods Receipt,SUP003,Northstar IT Services,IT Services,Cloud services,Manufacturing,North,95,103.9,9870.06,Overdue
+PO-00403,2025-03-30,Goods Receipt,SUP005,Metro Logistics,Logistics,Courier services,Corporate,West,88,215.87,18996.16,Pending
+PO-00363,2025-03-31,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Operations,North,72,213.89,15400.27,Pending
+PO-00055,2025-04-01,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Operations,West,32,31.81,1017.9,Overdue
+PO-00234,2025-04-01,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Technology,North,64,112.79,7218.26,Paid
+PO-00042,2025-04-01,Goods Receipt,SUP007,BrightClean Facilities,Professional Services,Audit support,Operations,East,53,452.56,23985.42,Paid
+PO-00583,2025-04-02,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Sales,West,13,676.8,8798.42,Overdue
+PO-00426,2025-04-03,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Corporate,North,23,495.78,11402.87,Pending
+PO-00185,2025-04-04,Purchase Order,SUP003,Northstar IT Services,Marketing,Digital campaign,Corporate,East,26,30.05,781.27,Pending
+PO-00075,2025-04-04,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Technology,North,44,326.94,14385.24,Overdue
+PO-00512,2025-04-04,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,North,93,52.15,4849.63,Paid
+PO-00305,2025-04-05,Goods Receipt,SUP003,Northstar IT Services,IT Services,IT consulting,Operations,West,4,3334.79,13339.16,Overdue
+PO-00285,2025-04-06,Purchase Order,SUP007,BrightClean Facilities,Facilities,Cleaning services,Corporate,East,53,189.41,10038.75,Overdue
+PO-00188,2025-04-06,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Corporate,West,103,64.93,6688.16,Paid
+PO-00237,2025-04-06,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Operations,West,73,195.33,14258.93,Pending
+PO-00307,2025-04-06,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Manufacturing,East,34,415.05,14111.7,Overdue
+PO-00312,2025-04-06,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Sales,South,111,171.46,19031.59,Paid
+PO-00507,2025-04-06,Goods Receipt,SUP003,Northstar IT Services,,Software support,Sales,East,16,1375.45,22007.13,Overdue
+PO-00518,2025-04-07,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Manufacturing,North,74,192.36,14234.87,Pending
+PO-00076,2025-04-08,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Sales,West,72,102.6,7386.93,Pending
+PO-00047,2025-04-08,Goods Receipt,SUP005,Metro Logistics,Utilities,Natural gas,Operations,East,119,1.26,150.24,Pending
+PO-00029,2025-04-08,Goods Receipt,SUP005,Metro Logistics,Logistics,Freight services,Technology,North,95,20.86,1981.66,Paid
+PO-00102,2025-04-08,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,East,111,142.72,15842.35,Overdue
+PO-00273,2025-04-09,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Technology,West,35,419.89,14696.03,Pending
+PO-00577,2025-04-09,Invoice,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Sales,West,18,362.45,6524.03,Overdue
+PO-00471,2025-04-10,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Manufacturing,North,10,3009.7,30097.05,Pending
+PO-00545,2025-04-11,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Sales,West,61,371.36,22652.72,Paid
+PO-00536,2025-04-13,Purchase Order,SUP004,North Star IT Svc,IT Services,Software support,Operations,East,27,990.07,26731.88,Paid
+PO-00370,2025-04-13,Goods Receipt,SUP011,Vertex Marketing,Marketing,Digital campaign,Sales,East,81,117.55,9521.56,Pending
+PO-00067,2025-04-13,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Manufacturing,South,61,71.89,4385.18,Pending
+PO-00151,2025-04-15,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Technology,North,98,240.09,23528.36,Paid
+PO-00265,2025-04-15,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Operations,North,111,14.36,1593.57,Pending
+PO-00392,2025-04-16,Purchase Order,SUP003,Northstar IT Services,IT Services,Cloud services,Sales,West,61,490.21,29902.65,Pending
+PO-00262,2025-04-17,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Corporate,West,28,994.06,27833.79,Paid
+PO-00294,2025-04-18,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Sales,South,9,1664.81,14983.32,Overdue
+PO-00543,2025-04-18,Invoice,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,South,110,61.61,6776.9,Overdue
+PO-00037,2025-04-18,Invoice,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Sales,East,110,112.84,12412.45,Paid
+PO-00498,2025-04-19,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Operations,East,70,140.53,9837.23,Pending
+PO-00412,2025-04-20,Goods Receipt,SUP004,North Star IT Svc,IT Services,Cloud services,Manufacturing,North,35,594.38,20803.22,Overdue
+PO-00368,2025-04-20,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Manufacturing,South,20,688.05,13760.96,Overdue
+PO-00511,2025-04-21,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Sales,South,62,137.89,8548.87,Overdue
+PO-00270,2025-04-22,Goods Receipt,SUP009,Summit Consulting,Professional Services,Audit support,Sales,West,82,24.9,2041.44,Paid
+PO-00062,2025-04-23,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Sales,South,44,24.69,1086.24,Pending
+PO-00502,2025-04-23,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Labels,Operations,East,30,161.56,4846.71,Pending
+PO-00199,2025-04-25,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Technology,East,31,460.71,14282.13,Pending
+PO-00499,2025-04-25,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,West,60,88.72,5323.06,Pending
+PO-00169,2025-04-26,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Manufacturing,North,101,91.04,9194.9,Overdue
+PO-00122,2025-04-26,Goods Receipt,SUP011,Vertex Marketing,Marketing,Print advertising,Corporate,West,109,161.85,17641.37,Paid
+PO-00044,2025-04-27,Purchase Order,SUP004,North Star IT Svc,Facilities,Facility maintenance,Technology,West,36,201.24,7244.57,Overdue
+PO-00081,2025-04-27,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Corporate,North,69,9.19,634.05,Overdue
+PO-00332,2025-04-28,Invoice,SUP007,,Facilities,Facility maintenance,Technology,South,14,1037.89,14530.51,Pending
+PO-00089,2025-04-30,Purchase Order,SUP005,Metro Logistics,Logistics,Courier services,Corporate,South,85,225.92,19203.26,Overdue
+PO-00254,2025-04-30,Purchase Order,SUP009,Summit Consulting,Professional Services,Audit support,Technology,South,8,3307.24,26457.94,Overdue
+PO-00231,2025-04-30,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Operations,North,61,98.78,6025.65,Overdue
+PO-00554,2025-05-01,Purchase Order,SUP011,Vertex Marketing,Marketing,Digital campaign,Operations,West,96,139.8,13420.49,Paid
+PO-00193,2025-05-01,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Operations,West,73,95.42,6965.44,Pending
+PO-00027,2025-05-02,Invoice,SUP003,Northstar IT Services,IT Services,Software support,Operations,West,111,133.65,14835.37,Paid
+PO-00318,2025-05-02,Goods Receipt,SUP004,North Star IT Svc,IT Services,IT consulting,Sales,South,45,401.66,18074.53,Overdue
+PO-00058,2025-05-03,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Technology,North,31,706.22,21892.91,Paid
+PO-00105,2025-05-03,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,West,53,291.05,15425.51,Pending
+PO-00418,2025-05-04,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Technology,South,77,187.87,14466.26,Overdue
+PO-00304,2025-05-05,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Operations,West,72,70.44,5071.49,Overdue
+PO-00267,2025-05-06,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Sales,West,44,386.12,16989.15,Paid
+PO-00163,2025-05-07,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Repair parts,Technology,East,67,119.06,7976.86,Pending
+PO-00041,2025-05-08,Invoice,SUP011,Vertex Marketing,Marketing,Promotional materials,Operations,South,114,123.41,14068.48,Paid
+PO-00026,2025-05-08,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Manufacturing,North,71,218.6,15520.92,Paid
+PO-00079,2025-05-09,Goods Receipt,SUP004,North Star IT Svc,IT Services,IT consulting,Operations,South,16,378.61,6057.79,Paid
+PO-00204,2025-05-09,Goods Receipt,SUP004,North Star IT Svc,IT Services,Cloud services,Manufacturing,North,17,996.9,16947.38,Overdue
+PO-00505,2025-05-09,Invoice,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,West,52,78.95,4105.44,Overdue
+PO-00114,2025-05-11,Goods Receipt,SUP011,Vertex Marketing,Marketing,Digital campaign,Corporate,West,87,186.59,16233.62,Pending
+PO-00247,2025-05-11,Invoice,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Corporate,North,6,1743.37,10460.21,Paid
+PO-00592,2025-05-11,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Corporate,East,51,270.71,13806.2,Overdue
+PO-00434,2025-05-11,Goods Receipt,SUP009,Summit Consulting,Professional Services,Business consulting,Corporate,North,7,2608.13,18256.92,Overdue
+PO-00121,2025-05-12,Invoice,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Sales,North,112,48.19,5397.13,Paid
+PO-00239,2025-05-14,Invoice,SUP007,BrightClean Facilities,Facilities,Security services,Manufacturing,North,43,316.21,13597.17,Pending
+PO-00504,2025-05-15,Invoice,SUP010,Urban Energy Solutions,Utilities,Water services,Manufacturing,North,84,38.43,3228.43,Overdue
+PO-00340,2025-05-15,Goods Receipt,SUP004,North Star IT Svc,Office Supplies,Pens and stationery,Manufacturing,West,51,334.95,17082.4,Pending
+PO-00534,2025-05-15,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Manufacturing,South,96,128.44,12329.9,Pending
+PO-00556,2025-05-15,Invoice,SUP010,Urban Energy Solutions,Utilities,Water services,Operations,South,114,103.76,11828.41,Overdue
+PO-00564,2025-05-15,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Technology,East,98,44.93,4403.37,Overdue
+PO-00005,2025-05-16,Invoice,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Manufacturing,East,119,81.58,9707.76,Overdue
+PO-00108,2025-05-16,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Manufacturing,West,11,1116.9,12285.9,Pending
+PO-00123,2025-05-16,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Manufacturing,West,96,118.83,11407.53,Overdue
+PO-00134,2025-05-16,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Sales,West,15,509.78,7646.77,Pending
+PO-00103,2025-05-17,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Sales,South,76,71.82,5458.18,Pending
+PO-00008,2025-05-17,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Repair parts,Manufacturing,South,78,150.09,11706.87,Paid
+PO-00346,2025-05-18,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Technology,North,4,3478.29,13913.17,Pending
+PO-00406,2025-05-18,Invoice,SUP012,Pioneer Hardware,Maintenance,Repair parts,Sales,West,25,466.5,11662.52,Overdue
+PO-00359,2025-05-20,Goods Receipt,SUP004,North Star IT Svc,IT Services,Software support,Operations,North,100,63.66,6365.65,Paid
+PO-00427,2025-05-21,Purchase Order,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,South,98,54.38,5328.94,Overdue
+PO-00336,2025-05-22,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,North,77,130.06,10014.73,Overdue
+PO-00130,2025-05-22,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Operations,North,106,274.06,29050.13,Paid
+PO-00405,2025-05-24,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Technology,West,112,110.4,12365.15,Pending
+PO-00539,2025-05-24,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,North,7,1490.11,10430.77,Overdue
+PO-00390,2025-05-25,Goods Receipt,SUP005,Metro Logistics,Logistics,Courier services,Operations,North,74,23.14,1712.72,Pending
+PO-00582,2025-05-25,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Corporate,North,13,768.63,9992.24,Paid
+PO-00173,2025-05-25,Purchase Order,SUP007,BrightClean Facilities,Facilities,Security services,Operations,East,21,362.17,7605.66,Paid
+PO-00557,2025-05-26,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Corporate,East,108,22.84,2467.23,Pending
+PO-00233,2025-05-27,Goods Receipt,SUP011,Vertex Marketing,IT Services,IT consulting,Corporate,South,30,667.71,20031.27,Pending
+PO-00467,2025-05-27,Invoice,SUP011,Vertex Marketing,Marketing,Digital campaign,Manufacturing,North,89,169.98,15128.15,Pending
+PO-00179,2025-05-28,Goods Receipt,SUP004,North Star IT Svc,IT Services,IT consulting,Sales,North,54,30.66,1655.39,Paid
+PO-00082,2025-05-30,Invoice,SUP012,Pioneer Hardware,Maintenance,Repair parts,Corporate,East,97,118.82,11525.11,Pending
+PO-00101,2025-05-30,Invoice,SUP009,Summit Consulting,Professional Services,Business consulting,Sales,South,62,206.99,12833.24,Pending
+PO-00476,2025-05-31,Goods Receipt,SUP004,North Star IT Svc,IT Services,IT consulting,Corporate,North,61,311.43,18997.26,Overdue
+PO-00578,2025-05-31,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Technology,West,24,248.85,5972.43,Pending
+PO-00283,2025-06-01,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Operations,West,20,134.88,2697.63,Pending
+PO-00369,2025-06-01,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Sales,South,8,1245.79,9966.31,Pending
+PO-00190,2025-06-01,Goods Receipt,SUP005,Metro Logistics,Logistics,Courier services,Technology,West,22,1000.82,22018.08,Paid
+PO-00431,2025-06-02,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Operations,East,68,235.57,16018.69,Pending
+PO-00235,2025-06-02,Invoice,SUP010,Urban Energy Solutions,Utilities,Water services,Manufacturing,West,43,388.86,16720.77,Paid
+PO-00227,2025-06-02,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Technology,East,63,336.26,21184.53,Pending
+PO-00303,2025-06-03,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Corporate,South,109,19.98,2177.72,Overdue
+PO-00337,2025-06-04,Invoice,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,South,96,163.45,15691.45,Pending
+PO-00415,2025-06-04,Purchase Order,SUP011,Vertex Marketing,Marketing,Digital campaign,Manufacturing,East,75,150.27,11270.08,Overdue
+PO-00295,2025-06-05,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Sales,West,55,88.9,4889.34,Overdue
+PO-00381,2025-06-07,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Manufacturing,West,94,25.5,2396.99,Overdue
+PO-00143,2025-06-09,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Operations,North,20,781.37,15627.31,Pending
+PO-00140,2025-06-10,Invoice,SUP011,Vertex Marketing,Marketing,Digital campaign,Corporate,North,88,195.12,17170.23,Paid
+PO-00535,2025-06-10,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Operations,West,24,735.11,17642.57,Overdue
+PO-00278,2025-06-11,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Corporate,East,97,109.45,10616.21,Paid
+PO-00159,2025-06-11,Invoice,SUP003,Northstar IT Services,IT Services,Cloud services,Manufacturing,North,81,178.49,14457.33,Pending
+PO-00387,2025-06-13,Invoice,SUP005,Metro Logistics,Logistics,Freight services,Corporate,North,22,111.79,2459.4,Pending
+PO-00350,2025-06-14,Purchase Order,SUP004,North Star IT Svc,IT Services,IT consulting,Technology,North,35,631.37,22097.87,Overdue
+PO-00291,2025-06-14,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Technology,East,41,90.52,3711.22,Overdue
+PO-00417,2025-06-16,Goods Receipt,SUP005,Metro Logistics,Logistics,Courier services,Operations,South,115,189.73,21818.41,Overdue
+PO-00225,2025-06-16,Invoice,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,East,23,298.16,6857.63,Overdue
+PO-00362,2025-06-17,Invoice,SUP003,Northstar IT Services,IT Services,IT consulting,Corporate,East,46,168.45,7748.86,Pending
+PO-00120,2025-06-17,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Manufacturing,East,101,36.73,3710.21,Paid
+PO-00352,2025-06-17,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Technology,South,26,10.1,262.49,Pending
+PO-00132,2025-06-18,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Manufacturing,East,36,508.87,18319.46,Paid
+PO-00451,2025-06-19,Invoice,SUP005,Metro Logistics,Facilities,Cleaning services,Corporate,West,49,203.32,9962.86,Pending
+PO-00482,2025-06-19,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Corporate,South,102,10.69,1090.31,Pending
+PO-00260,2025-06-19,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Operations,North,48,170.05,8162.19,Pending
+PO-00131,2025-06-20,Purchase Order,SUP004,North Star IT Svc,IT Services,IT consulting,Operations,South,27,893.52,24124.99,Paid
+PO-00184,2025-06-20,Purchase Order,SUP003,Northstar IT Services,Maintenance,Tools and supplies,Sales,West,83,74.38,6173.22,Overdue
+PO-00156,2025-06-20,Goods Receipt,SUP003,Northstar IT Services,IT Services,Software support,Technology,East,68,286.05,19451.5,Overdue
+PO-00548,2025-06-21,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Corporate,West,120,143.64,17236.4,Paid
+PO-00065,2025-06-22,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Sales,North,54,317.18,17127.53,Overdue
+PO-00170,2025-06-22,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Manufacturing,South,21,326.46,6855.75,Overdue
+PO-00025,2025-06-23,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Operations,East,58,60.71,,Pending
+PO-00448,2025-06-23,Invoice,SUP009,Summit Consulting,Professional Services,Audit support,Operations,West,13,1653.76,21498.84,Pending
+PO-00458,2025-06-23,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Corporate,West,82,11.6,951.43,Pending
+PO-00209,2025-06-24,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,South,41,378.62,15523.35,Pending
+PO-00015,2025-06-24,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Technology,South,1,2947.86,2947.86,Overdue
+PO-00464,2025-06-26,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,North,23,557.47,12821.89,Pending
+PO-00540,2025-06-27,Purchase Order,SUP007,BrightClean Facilities,Facilities,Security services,Manufacturing,West,59,237.17,13993.16,Pending
+PO-00477,2025-06-27,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Corporate,East,118,98.34,11603.69,Pending
+PO-00095,2025-06-28,Purchase Order,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,West,110,110.02,12101.99,Pending
+PO-00549,2025-06-29,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Manufacturing,South,74,49.69,3677.37,Pending
+PO-00334,2025-06-29,Invoice,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Sales,South,118,114.4,13499.05,Paid
+PO-00191,2025-06-30,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Electricity,Sales,East,102,49.3,5029.05,Overdue
+PO-00268,2025-06-30,Goods Receipt,SUP003,Northstar IT Services,IT Services,IT consulting,Corporate,North,24,700.7,16816.82,Paid
+PO-00423,2025-07-01,Invoice,SUP004,North Star IT Svc,IT Services,Cloud services,Technology,East,101,94.44,9538.16,Pending
+PO-00550,2025-07-01,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Sales,East,95,158.12,15021.86,Pending
+PO-00595,2025-07-02,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Technology,East,75,151.49,11361.85,Paid
+PO-00282,2025-07-02,Goods Receipt,SUP009,Summit Consulting,Professional Services,Audit support,Sales,North,88,151.48,13330.45,Overdue
+PO-00421,2025-07-03,Goods Receipt,SUP009,Summit Consulting,Professional Services,Business consulting,Technology,North,85,63.19,5370.91,Pending
+PO-00432,2025-07-03,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Operations,South,104,267.02,27769.96,Overdue
+PO-00284,2025-07-04,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Corporate,South,57,297.9,16980.13,Paid
+PO-00409,2025-07-04,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Corporate,North,60,111.77,6706.13,Paid
+PO-00215,2025-07-07,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,East,73,99.76,7282.4,Paid
+PO-00316,2025-07-07,Invoice,SUP009,Summit Consulting,Professional Services,Audit support,Operations,West,93,15.79,1468.79,Paid
+PO-00353,2025-07-08,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Manufacturing,South,100,179.6,17960.43,Paid
+PO-00521,2025-07-09,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Sales,South,40,197.95,7917.83,Overdue
+PO-00124,2025-07-10,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Manufacturing,South,80,106.88,8550.01,Overdue
+PO-00329,2025-07-10,Goods Receipt,SUP011,Vertex Marketing,Marketing,Print advertising,Operations,West,51,60.38,3079.59,Overdue
+PO-00410,2025-07-10,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Manufacturing,East,112,29.42,3295.2,Pending
+PO-00538,2025-07-10,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,South,113,143.17,16178.41,Overdue
+PO-00194,2025-07-10,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Technology,East,68,152.67,10381.72,Paid
+PO-00407,2025-07-11,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Sales,South,40,74.06,2962.43,Overdue
+PO-00563,2025-07-11,Purchase Order,SUP004,North Star IT Svc,IT Services,Software support,Sales,West,51,338.09,17242.61,Paid
+PO-00429,2025-07-11,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Corporate,South,68,200.77,13652.44,Paid
+PO-00300,2025-07-11,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,North,89,137.87,12270.45,Pending
+PO-00355,2025-07-12,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Sales,North,68,29.1,1978.61,Paid
+PO-00513,2025-07-13,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Security services,Sales,South,67,6.21,416.14,Overdue
+PO-00261,2025-07-13,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Manufacturing,South,10,82.71,827.11,Pending
+PO-00275,2025-07-14,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Corporate,West,2,561.67,1123.34,Pending
+PO-00113,2025-07-15,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Electricity,Sales,East,75,120.24,9018.29,Pending
+PO-00525,2025-07-16,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Operations,West,92,102.56,9435.58,Pending
+PO-00313,2025-07-16,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Sales,West,88,173.29,15249.1,Paid
+PO-00216,2025-07-17,Goods Receipt,SUP009,Summit Consulting,Professional Services,Audit support,Manufacturing,North,106,159.6,16917.46,Paid
+PO-00338,2025-07-17,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Technology,East,10,1152.89,11528.91,Paid
+PO-00400,2025-07-18,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Corporate,West,36,281.03,10116.95,Paid
+PO-00308,2025-07-18,Invoice,SUP010,,Utilities,Natural gas,Operations,East,46,47.01,2162.47,Overdue
+PO-00164,2025-07-18,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Security services,Technology,North,7,1751.24,12258.69,Pending
+PO-00339,2025-07-18,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Corporate,North,23,429.95,9888.85,Paid
+PO-00183,2025-07-18,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Operations,North,101,6.91,697.7,Overdue
+PO-00028,2025-07-19,Invoice,SUP005,Metro Logistics,Logistics,Warehouse handling,Manufacturing,West,37,650.51,24068.79,Paid
+PO-00033,2025-07-22,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Sales,North,41,227.38,9322.71,Paid
+PO-00528,2025-07-22,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Corporate,East,95,98.71,9377.24,Overdue
+PO-00153,2025-07-23,Invoice,SUP012,Pioneer Hardware,Office Supplies,Toner cartridges,Sales,West,10,834.04,8340.41,Overdue
+PO-00462,2025-07-23,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Manufacturing,East,18,776.04,13968.7,Overdue
+PO-00325,2025-07-23,Invoice,SUP004,North Star IT Svc,IT Services,Cloud services,Technology,East,64,394.94,25276.07,Overdue
+PO-00296,2025-07-25,Invoice,SUP009,Summit Consulting,Professional Services,Audit support,Corporate,East,89,316.63,28180.24,Overdue
+PO-00097,2025-07-26,Goods Receipt,SUP009,Summit Consulting,Professional Services,Training services,Sales,North,112,2.13,238.99,Paid
+PO-00208,2025-07-27,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Sales,West,21,1006.43,21135.1,Paid
+PO-00483,2025-07-28,Purchase Order,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Corporate,North,41,179.31,7351.53,Overdue
+PO-00457,2025-07-29,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Sales,South,16,226.44,3623.08,Overdue
+PO-00049,2025-07-29,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Sales,South,17,540.63,9190.74,Overdue
+PO-00453,2025-07-31,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Technology,South,12,10.25,123.03,Overdue
+PO-00401,2025-08-01,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Manufacturing,North,98,184.44,18074.85,Pending
+PO-00147,2025-08-03,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Manufacturing,North,93,72.44,6736.55,Paid
+PO-00002,2025-08-05,Purchase Order,SUP001,Apex Office Supplies,Facilities,Security services,Operations,West,78,54.87,4279.98,Paid
+PO-00306,2025-08-08,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Manufacturing,North,97,39.17,3799.43,Overdue
+PO-00064,2025-08-08,Invoice,SUP003,Northstar IT Services,IT Services,Cloud services,Operations,West,34,168.47,5727.84,Pending
+PO-00024,2025-08-09,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Corporate,North,94,153.19,14399.68,Pending
+PO-00189,2025-08-09,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Corporate,East,38,88.07,3346.56,Overdue
+PO-00072,2025-08-10,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Operations,East,91,279.05,25393.39,Overdue
+PO-00141,2025-08-10,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Manufacturing,East,17,399.0,6782.93,Overdue
+PO-00428,2025-08-11,Invoice,SUP011,Vertex Marketing,Marketing,Digital campaign,Corporate,South,62,125.66,7790.98,Overdue
+PO-00343,2025-08-12,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Corporate,West,32,137.09,4386.84,Overdue
+PO-00155,2025-08-12,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Technology,East,68,156.6,10649.02,Paid
+PO-00099,2025-08-13,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Repair parts,Operations,East,81,7.85,636.19,Overdue
+PO-00171,2025-08-13,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Technology,West,31,393.98,12213.37,Paid
+PO-00385,2025-08-13,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Technology,West,53,58.38,3094.13,Paid
+PO-00035,2025-08-13,Goods Receipt,SUP009,Summit Consulting,Professional Services,Audit support,Corporate,East,104,180.74,18796.56,Overdue
+PO-00443,2025-08-13,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Corporate,West,48,275.57,13227.25,Pending
+PO-00107,2025-08-14,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Operations,North,93,89.14,8289.87,Pending
+PO-00039,2025-08-15,Purchase Order,SUP009,Summit Consulting,Professional Services,Audit support,Operations,North,15,1150.22,17253.33,Pending
+PO-00149,2025-08-15,Invoice,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Corporate,East,15,907.89,13618.38,Overdue
+PO-00051,2025-08-15,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Corporate,East,102,90.78,9259.79,Overdue
+PO-00129,2025-08-16,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Technology,North,88,36.64,3223.98,Pending
+PO-00553,2025-08-16,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Operations,North,58,276.52,16038.36,Paid
+PO-00196,2025-08-17,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Corporate,South,118,75.29,8884.39,Paid
+PO-00057,2025-08-17,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Technology,West,34,430.36,14632.2,Overdue
+PO-00003,2025-08-18,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Sales,East,98,159.83,15663.09,Pending
+PO-00398,2025-08-18,Purchase Order,SUP003,Northstar IT Services,IT Services,Software support,Corporate,West,28,188.76,5285.14,Paid
+PO-00249,2025-08-18,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,North,85,145.03,12327.22,Paid
+PO-00360,2025-08-19,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Technology,West,46,49.54,2278.77,Pending
+PO-00074,2025-08-19,Invoice,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,West,86,203.78,17525.15,Pending
+PO-00197,2025-08-20,Goods Receipt,SUP003,Northstar IT Services,IT Services,Cloud services,Technology,North,12,1144.47,13733.6,Overdue
+PO-00566,2025-08-20,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Corporate,North,42,360.92,15158.71,Paid
+PO-00139,2025-08-20,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Corporate,East,52,487.58,25354.23,Pending
+PO-00468,2025-08-20,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Manufacturing,West,72,169.42,12198.41,Paid
+PO-00246,2025-08-21,Goods Receipt,SUP003,Northstar IT Services,IT Services,Cloud services,Technology,North,8,1761.11,14088.85,Pending
+PO-00302,2025-08-22,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Sales,East,13,830.07,10790.94,Paid
+PO-00444,2025-08-22,Invoice,SUP005,Metro Logistics,Logistics,Warehouse handling,Operations,North,62,341.52,21174.27,Paid
+PO-00589,2025-08-23,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Sales,East,22,722.95,15904.89,Overdue
+PO-00327,2025-08-24,Invoice,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Sales,South,57,271.14,15454.81,Overdue
+PO-00009,2025-08-25,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,North,89,187.26,16665.99,Paid
+PO-00441,2025-08-26,Invoice,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Technology,West,6,540.61,3243.67,Overdue
+PO-00060,2025-08-27,Goods Receipt,SUP007,BrightClean Facilities,Utilities,Natural gas,Corporate,West,99,71.55,7083.85,Pending
+PO-00014,2025-08-28,Goods Receipt,SUP009,Summit Consulting,Professional Services,Audit support,Corporate,East,2,8509.92,17019.85,Overdue
+PO-00503,2025-08-29,Invoice,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Manufacturing,East,84,9.92,833.5,Overdue
+PO-00178,2025-08-29,Invoice,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Operations,West,3,5438.91,16316.73,Paid
+PO-00248,2025-08-30,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Sales,East,18,185.45,3338.07,Pending
+PO-00524,2025-08-30,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Manufacturing,North,29,43.65,1265.76,Overdue
+PO-00558,2025-09-01,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Operations,South,35,279.59,9785.64,Overdue
+PO-00222,2025-09-03,Invoice,SUP003,Northstar IT Services,IT Services,Software support,Operations,North,100,221.25,22125.07,Overdue
+PO-00083,2025-09-03,Invoice,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Corporate,West,33,526.76,17383.1,Pending
+PO-00386,2025-09-03,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Corporate,East,21,590.78,12406.43,Paid
+PO-00439,2025-09-04,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Sales,South,12,49.29,591.53,Paid
+PO-00560,2025-09-04,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Technology,South,40,73.15,2926.08,Pending
+PO-00532,2025-09-05,Goods Receipt,SUP004,North Star IT Svc,IT Services,Cloud services,Manufacturing,North,59,498.67,29421.81,Pending
+PO-00080,2025-09-05,Goods Receipt,SUP005,Metro Logistics,Logistics,Courier services,Corporate,South,68,439.54,29888.95,Pending
+PO-00460,2025-09-05,Goods Receipt,SUP009,Summit Consulting,Professional Services,Business consulting,Operations,North,89,313.14,27869.88,Pending
+PO-00562,2025-09-09,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Operations,North,103,134.11,13813.74,Overdue
+PO-00376,2025-09-09,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Sales,North,29,147.56,4279.31,Pending
+PO-00288,2025-09-10,Invoice,SUP003,Northstar IT Services,Utilities,Electricity,Technology,East,39,129.59,5054.2,Paid
+PO-00568,2025-09-10,Invoice,SUP004,North Star IT Svc,IT Services,Cloud services,Sales,North,103,93.93,9674.68,Pending
+PO-00257,2025-09-11,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Technology,West,86,197.16,16955.57,Pending
+PO-00152,2025-09-12,Goods Receipt,SUP012,Pioneer Hardware,,Repair parts,Manufacturing,East,69,35.22,2429.84,Paid
+PO-00180,2025-09-13,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Operations,East,74,154.32,11419.35,Pending
+PO-00011,2025-09-13,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Operations,East,19,611.27,11614.19,Overdue
+PO-00241,2025-09-15,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Manufacturing,South,82,151.98,12462.39,Paid
+PO-00500,2025-09-15,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Operations,South,104,146.94,15281.92,Pending
+PO-00272,2025-09-15,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Repair parts,Corporate,South,117,124.22,14534.28,Paid
+PO-00236,2025-09-16,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Labels,Sales,East,43,339.11,14581.59,Overdue
+PO-00213,2025-09-16,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Technology,West,46,86.23,3966.78,Overdue
+PO-00160,2025-09-17,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Corporate,North,8,1025.03,8200.22,Overdue
+PO-00440,2025-09-19,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Sales,East,33,58.52,1931.07,Pending
+PO-00342,2025-09-19,Invoice,SUP004,North Star IT Svc,IT Services,IT consulting,Corporate,East,42,117.31,4926.84,Overdue
+PO-00469,2025-09-19,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Sales,East,119,100.85,12001.15,Overdue
+PO-00135,2025-09-20,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Manufacturing,East,79,115.55,9128.64,Pending
+PO-00186,2025-09-21,Purchase Order,SUP007,BrightClean Facilities,Facilities,Security services,Operations,East,33,297.86,9829.39,Pending
+PO-00238,2025-09-21,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Technology,South,24,856.11,20546.7,Paid
+PO-00210,2025-09-21,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Operations,South,16,471.99,7551.86,Paid
+PO-00587,2025-09-23,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Manufacturing,South,50,85.01,4250.6,Overdue
+PO-00094,2025-09-23,Invoice,SUP011,Vertex Marketing,Marketing,Promotional materials,Sales,North,75,67.91,5093.44,Pending
+PO-00098,2025-09-23,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Technology,South,57,269.41,15356.2,Pending
+PO-00256,2025-09-24,Goods Receipt,SUP004,North Star IT Svc,IT Services,IT consulting,Operations,West,72,118.99,8567.58,Overdue
+PO-00245,2025-09-24,Invoice,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Manufacturing,West,75,50.57,3792.58,Paid
+PO-00396,2025-09-25,Invoice,SUP007,BrightClean Facilities,Facilities,Security services,Operations,West,120,103.37,12404.77,Pending
+PO-00438,2025-09-25,Purchase Order,SUP004,North Star IT Svc,IT Services,IT consulting,Sales,South,21,602.81,12658.95,Overdue
+PO-00182,2025-09-27,Purchase Order,SUP009,Summit Consulting,Professional Services,Training services,Sales,North,71,425.99,30245.32,Overdue
+PO-00056,2025-09-29,Invoice,SUP009,Summit Consulting,Professional Services,Audit support,Manufacturing,West,115,252.88,29081.4,Overdue
+PO-00017,2025-09-29,Invoice,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Operations,North,15,590.42,8856.27,Paid
+PO-00071,2025-09-30,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Sales,West,83,16.3,1352.95,Paid
+PO-00565,2025-09-30,Purchase Order,SUP005,Metro Logistics,Logistics,Courier services,Corporate,West,24,1089.43,26146.44,Overdue
+PO-00172,2025-10-01,Purchase Order,SUP004,North Star IT Svc,IT Services,Cloud services,Manufacturing,West,61,406.28,24782.93,Pending
+PO-00264,2025-10-01,Invoice,SUP011,Vertex Marketing,Marketing,Print advertising,Corporate,West,66,72.68,4796.72,Pending
+PO-00520,2025-10-02,Invoice,SUP007,BrightClean Facilities,Facilities,Cleaning services,Sales,West,88,125.69,11060.43,Paid
+PO-00045,2025-10-02,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Technology,North,34,109.12,3709.93,Paid
+PO-00297,2025-10-02,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Technology,South,99,16.56,1639.48,Overdue
+PO-00402,2025-10-02,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Manufacturing,West,84,98.01,8232.7,Paid
+PO-00073,2025-10-03,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Operations,North,76,195.84,14884.13,Pending
+PO-00250,2025-10-03,Purchase Order,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,West,29,452.9,13134.1,Overdue
+PO-00311,2025-10-03,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Repair parts,Sales,East,23,728.73,16760.83,Paid
+PO-00034,2025-10-03,Purchase Order,SUP004,North Star IT Svc,IT Services,Software support,Technology,East,45,94.0,4230.15,Paid
+PO-00104,2025-10-03,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Technology,South,70,142.69,9988.28,Overdue
+PO-00066,2025-10-04,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Corporate,North,84,75.92,6377.29,Paid
+PO-00198,2025-10-05,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Operations,East,92,283.5,26082.0,Overdue
+PO-00371,2025-10-06,Invoice,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Operations,North,42,243.66,10233.84,Pending
+PO-00251,2025-10-06,Invoice,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Operations,East,32,463.8,14841.68,Paid
+PO-00542,2025-10-08,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Operations,West,79,183.94,14531.01,Pending
+PO-00463,2025-10-08,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Operations,East,81,353.58,28639.83,Overdue
+PO-00523,2025-10-09,Invoice,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,North,21,607.5,12757.4,Paid
+PO-00474,2025-10-09,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Manufacturing,North,68,319.33,21714.69,Overdue
+PO-00200,2025-10-10,Invoice,SUP003,Northstar IT Services,IT Services,IT consulting,Sales,West,40,70.62,2824.61,Pending
+PO-00202,2025-10-10,Invoice,SUP011,Vertex Marketing,Marketing,Promotional materials,Corporate,North,17,814.58,13847.94,Overdue
+PO-00078,2025-10-11,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Sales,East,71,429.54,30497.61,Pending
+PO-00266,2025-10-11,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Operations,West,20,379.31,7586.3,Overdue
+PO-00144,2025-10-12,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Manufacturing,North,29,299.01,8671.36,Overdue
+PO-00085,2025-10-13,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,West,29,491.67,14258.45,Pending
+PO-00529,2025-10-14,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Operations,West,36,481.77,17343.58,Pending
+PO-00287,2025-10-14,Purchase Order,SUP004,North Star IT Svc,IT Services,Software support,Technology,East,49,109.36,5358.64,Pending
+PO-00465,2025-10-15,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Manufacturing,East,91,186.54,16975.0,Pending
+PO-00279,2025-10-16,Goods Receipt,SUP004,North Star IT Svc,IT Services,Cloud services,Sales,South,87,299.12,26023.65,Overdue
+PO-00244,2025-10-16,Goods Receipt,SUP002,Apex Office Supply Ltd,Maintenance,Tools and supplies,Operations,South,26,625.52,16263.64,Pending
+PO-00220,2025-10-16,Goods Receipt,SUP005,Metro Logistics,Logistics,Freight services,Sales,East,43,16.5,709.7,Overdue
+PO-00315,2025-10-17,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Corporate,East,66,136.0,8976.2,Overdue
+PO-00274,2025-10-17,Purchase Order,SUP004,North Star IT Svc,IT Services,IT consulting,Corporate,North,88,80.33,7069.16,Pending
+PO-00018,2025-10-18,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Operations,West,9,978.83,8809.51,Overdue
+PO-00277,2025-10-18,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Manufacturing,North,88,189.14,16643.97,Paid
+PO-00490,2025-10-18,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Manufacturing,North,71,236.49,16790.77,Pending
+PO-00408,2025-10-19,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Corporate,West,26,606.47,15768.23,Paid
+PO-00050,2025-10-19,Invoice,SUP005,Metro Logistics,Logistics,Freight services,Sales,East,39,655.02,25545.91,Pending
+PO-00596,2025-10-20,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,South,10,400.78,4007.78,Pending
+PO-00023,2025-10-20,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Corporate,North,104,136.05,14149.0,Overdue
+PO-00488,2025-10-21,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Technology,South,11,900.89,9909.76,Pending
+PO-00452,2025-10-21,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Corporate,North,41,220.3,9032.4,Pending
+PO-00255,2025-10-22,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Technology,South,105,225.58,23686.07,Overdue
+PO-00530,2025-10-22,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Manufacturing,East,14,528.54,7399.57,Pending
+PO-00093,2025-10-22,Invoice,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,South,87,206.81,17992.35,Pending
+PO-00201,2025-10-22,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Manufacturing,East,10,578.85,5788.45,Paid
+PO-00326,2025-10-23,Goods Receipt,SUP003,Northstar IT Services,IT Services,Software support,Corporate,North,44,339.92,14956.33,Overdue
+PO-00166,2025-10-26,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Sales,South,84,75.89,6374.8,Overdue
+PO-00040,2025-10-26,Invoice,SUP009,Summit Consulting,Professional Services,Business consulting,Technology,South,40,101.95,4077.83,Overdue
+PO-00574,2025-10-27,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Sales,South,6,744.41,4466.44,Pending
+PO-00030,2025-10-27,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Labels,Corporate,South,21,731.74,15366.63,Paid
+PO-00012,2025-10-27,Purchase Order,SUP007,BrightClean Facilities,Facilities,Security services,Sales,North,29,250.39,7261.28,Paid
+PO-00115,2025-10-28,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Operations,West,33,397.01,13101.29,Pending
+PO-00086,2025-10-29,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Operations,South,79,142.08,11223.97,Pending
+PO-00309,2025-10-30,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Operations,East,31,184.51,5719.76,Overdue
+PO-00253,2025-11-01,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Corporate,West,112,108.36,12135.78,Pending
+PO-00161,2025-11-01,Goods Receipt,SUP009,Summit Consulting,Professional Services,Business consulting,Sales,South,102,174.94,17843.69,Pending
+PO-00388,2025-11-01,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Electricity,Manufacturing,West,56,227.08,12716.54,Paid
+PO-00031,2025-11-01,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Manufacturing,North,16,270.34,4325.45,Overdue
+PO-00088,2025-11-01,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Sales,North,91,46.8,4258.8,Overdue
+PO-00559,2025-11-02,Invoice,SUP008,,Packaging,Labels,Manufacturing,East,73,157.38,11489.02,Pending
+PO-00046,2025-11-02,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Security services,Corporate,West,56,253.24,14181.34,Overdue
+PO-00372,2025-11-02,Goods Receipt,SUP004,North Star IT Svc,Packaging,Protective packaging,Manufacturing,South,61,19.14,1167.61,Paid
+PO-00138,2025-11-02,Purchase Order,SUP009,Summit Consulting,Professional Services,Audit support,Corporate,South,56,278.05,15570.73,Pending
+PO-00092,2025-11-03,Invoice,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Corporate,South,78,169.92,13253.47,Overdue
+PO-00579,2025-11-03,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Manufacturing,East,58,281.87,16348.45,Pending
+PO-00162,2025-11-06,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Corporate,South,58,297.31,17244.08,Paid
+PO-00118,2025-11-07,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Operations,North,33,181.31,5983.25,Overdue
+PO-00344,2025-11-08,Purchase Order,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Corporate,South,95,140.86,13381.48,Overdue
+PO-00446,2025-11-09,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Security services,Operations,West,111,99.56,11051.09,Pending
+PO-00224,2025-11-10,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Manufacturing,South,8,1659.6,13276.77,Overdue
+PO-00219,2025-11-10,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Warehouse handling,Technology,West,95,319.1,30314.76,Overdue
+PO-00298,2025-11-10,Invoice,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Sales,North,83,140.4,11653.16,Paid
+PO-00281,2025-11-11,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Water services,Sales,West,4,3487.79,13951.16,Paid
+PO-00377,2025-11-11,Invoice,SUP004,North Star IT Svc,IT Services,Software support,Corporate,South,23,459.2,10561.71,Overdue
+PO-00493,2025-11-12,Goods Receipt,SUP011,Vertex Marketing,Marketing,Print advertising,Technology,West,73,144.73,10564.96,Paid
+PO-00484,2025-11-13,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Manufacturing,North,90,117.67,10590.67,Pending
+PO-00006,2025-11-13,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Technology,North,6,3603.36,21620.17,Paid
+PO-00290,2025-11-14,Invoice,SUP007,BrightClean Facilities,Facilities,Security services,Manufacturing,South,43,139.82,6012.21,Pending
+PO-00584,2025-11-16,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Corporate,North,29,34.4,997.65,Paid
+PO-00109,2025-11-17,Purchase Order,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Corporate,South,70,126.35,8844.5,Overdue
+PO-00289,2025-11-17,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Corporate,West,14,258.31,3616.4,Pending
+PO-00588,2025-11-17,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Manufacturing,East,96,178.85,17169.27,Overdue
+PO-00497,2025-11-17,Goods Receipt,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Corporate,West,109,147.44,16070.84,Overdue
+PO-00158,2025-11-18,Invoice,SUP008,GreenLeaf Packaging,Packaging,Labels,Manufacturing,East,75,135.99,10199.59,Overdue
+PO-00546,2025-11-19,Invoice,SUP009,Summit Consulting,Professional Services,Training services,Manufacturing,North,63,155.57,9800.85,Pending
+PO-00599,2025-11-20,Goods Receipt,SUP007,BrightClean Facilities,Maintenance,Repair parts,Technology,South,70,12.23,856.34,Paid
+PO-00551,2025-11-20,Invoice,SUP003,Northstar IT Services,IT Services,Cloud services,Manufacturing,West,119,165.34,19675.09,Paid
+PO-00591,2025-11-21,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Security services,Operations,West,31,190.43,5903.3,Overdue
+PO-00456,2025-11-21,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Sales,South,14,826.34,11568.77,Overdue
+PO-00323,2025-11-21,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Sales,East,89,151.98,13526.47,Overdue
+PO-00001,2025-11-24,Goods Receipt,SUP002,Apex Office Supply Ltd,Packaging,Corrugated boxes,Manufacturing,North,18,249.93,4498.67,Overdue
+PO-00207,2025-11-24,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Pens and stationery,Sales,South,38,298.25,11333.69,Overdue
+PO-00154,2025-11-24,Purchase Order,SUP007,BrightClean Facilities,Facilities,Security services,Sales,East,42,175.29,7361.98,Paid
+PO-00205,2025-11-25,Goods Receipt,SUP003,Northstar IT Services,IT Services,IT consulting,Manufacturing,East,22,811.52,17853.33,Overdue
+PO-00174,2025-11-25,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Labels,Corporate,East,14,716.8,10035.19,Paid
+PO-00136,2025-11-26,Goods Receipt,SUP001,Apex Office Supplies,Marketing,Digital campaign,Sales,West,55,277.63,15269.7,Paid
+PO-00276,2025-11-27,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Operations,South,13,2021.74,26282.56,Overdue
+PO-00366,2025-11-27,Invoice,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Corporate,West,109,16.19,1764.58,Paid
+PO-00576,2025-11-27,Invoice,SUP003,Northstar IT Services,IT Services,Software support,Technology,East,17,1427.14,24261.41,Pending
+PO-00119,2025-11-27,Invoice,SUP001,Apex Office Supplies,Office Supplies,Toner cartridges,Operations,North,75,106.69,8001.92,Pending
+PO-00496,2025-11-27,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Operations,East,106,48.47,5137.41,Overdue
+PO-00157,2025-11-27,Purchase Order,SUP003,Northstar IT Services,IT Services,IT consulting,Operations,North,26,179.05,4655.32,Paid
+PO-00489,2025-11-27,Invoice,SUP009,Summit Consulting,Professional Services,Business consulting,Corporate,South,79,73.38,5796.64,Overdue
+PO-00416,2025-11-28,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Technology,East,14,389.77,5456.75,Overdue
+PO-00487,2025-11-28,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Corporate,North,112,4.85,542.92,Paid
+PO-00240,2025-12-01,Invoice,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Operations,West,16,130.77,2092.33,Overdue
+PO-00317,2025-12-01,Invoice,SUP004,North Star IT Svc,IT Services,Cloud services,Corporate,West,58,527.23,30579.11,Paid
+PO-00214,2025-12-01,Purchase Order,SUP011,Vertex Marketing,Marketing,Print advertising,Operations,East,109,89.14,9716.03,Overdue
+PO-00519,2025-12-02,Purchase Order,SUP004,North Star IT Svc,IT Services,Software support,Sales,East,47,208.64,9806.15,Pending
+PO-00492,2025-12-02,Purchase Order,SUP004,North Star IT Svc,IT Services,Cloud services,Sales,West,116,164.09,19034.8,Pending
+PO-00585,2025-12-02,Goods Receipt,SUP008,GreenLeaf Packaging,Packaging,Corrugated boxes,Technology,West,60,249.96,14997.55,Pending
+PO-00455,2025-12-03,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Freight services,Corporate,East,98,37.45,3669.85,Pending
+PO-00461,2025-12-03,Invoice,SUP010,Urban Energy Solutions,Utilities,Water services,Manufacturing,South,113,51.99,5874.57,Pending
+PO-00145,2025-12-03,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Technology,North,90,37.18,3345.84,Paid
+PO-00459,2025-12-04,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Corporate,West,64,39.49,2527.29,Overdue
+PO-00515,2025-12-04,Goods Receipt,SUP003,Northstar IT Services,IT Services,IT consulting,Sales,West,1,16596.14,16596.14,Pending
+PO-00393,2025-12-05,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Technology,South,24,697.64,16743.25,Pending
+PO-00087,2025-12-05,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Sales,West,10,322.78,3227.79,Overdue
+PO-00358,2025-12-06,Invoice,SUP003,Northstar IT Services,IT Services,IT consulting,Technology,East,41,198.47,8137.08,Pending
+PO-00106,2025-12-06,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Manufacturing,East,5,1795.3,8976.48,Paid
+PO-00096,2025-12-06,Purchase Order,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Technology,East,59,168.74,9955.73,Paid
+PO-00449,2025-12-06,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Corporate,North,106,26.21,2777.94,Overdue
+PO-00052,2025-12-06,Purchase Order,SUP011,Vertex Marketing,Marketing,Promotional materials,Technology,South,97,18.45,1789.76,Paid
+PO-00243,2025-12-07,Purchase Order,SUP004,North Star IT Svc,IT Services,IT consulting,Sales,East,77,271.22,20883.67,Paid
+PO-00395,2025-12-08,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Toner cartridges,Operations,North,70,89.53,6266.99,Pending
+PO-00269,2025-12-09,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Corporate,South,108,69.38,7493.57,Paid
+PO-00168,2025-12-10,Purchase Order,SUP007,BrightClean Facilities,Facilities,Cleaning services,Technology,West,40,11.15,445.96,Paid
+PO-00127,2025-12-10,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Operations,West,76,128.67,9778.64,Overdue
+PO-00020,2025-12-10,Purchase Order,SUP011,Vertex Marketing,Marketing,Digital campaign,Operations,North,58,279.4,16205.1,Pending
+PO-00454,2025-12-10,Purchase Order,SUP008,GreenLeaf Packaging,Packaging,Protective packaging,Technology,West,7,945.22,6616.56,Overdue
+PO-00491,2025-12-10,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Technology,South,75,48.66,3649.83,Overdue
+PO-00351,2025-12-11,Invoice,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Sales,East,6,2416.93,14501.56,Pending
+PO-00322,2025-12-13,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Sales,West,35,298.41,10444.37,Paid
+PO-00192,2025-12-14,Goods Receipt,SUP003,Northstar IT Services,IT Services,Cloud services,Corporate,South,78,58.26,4543.92,Paid
+PO-00150,2025-12-14,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Water services,Manufacturing,North,6,2008.06,12048.33,Paid
+PO-00495,2025-12-14,Invoice,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Sales,North,58,150.03,8701.58,Paid
+PO-00226,2025-12-15,Purchase Order,SUP011,Vertex Marketing,Marketing,Digital campaign,Technology,East,62,78.17,4846.8,Paid
+PO-00399,2025-12-16,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Technology,North,19,780.39,14827.44,Paid
+PO-00110,2025-12-17,Purchase Order,SUP005,Metro Logistics,Logistics,Warehouse handling,Corporate,West,56,408.98,22902.71,Paid
+PO-00365,2025-12-18,Invoice,SUP011,Vertex Marketing,Marketing,Digital campaign,Corporate,North,76,21.35,1622.62,Paid
+PO-00436,2025-12-18,Goods Receipt,SUP011,Vertex Marketing,Utilities,Water services,Manufacturing,South,85,140.59,11950.56,Pending
+PO-00485,2025-12-18,Invoice,SUP005,Metro Logistics,Logistics,Courier services,Sales,North,119,73.62,8761.0,Pending
+PO-00541,2025-12-19,Invoice,SUP001,Apex Office Supplies,Facilities,Facility maintenance,Manufacturing,East,13,531.09,6904.17,Paid
+PO-00221,2025-12-19,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Operations,North,84,57.95,4867.68,Overdue
+PO-00404,2025-12-20,Invoice,SUP004,North Star IT Svc,Marketing,Digital campaign,Technology,East,115,144.21,16584.53,Pending
+PO-00594,2025-12-20,Goods Receipt,SUP005,Metro Logistics,Logistics,Freight services,Corporate,North,74,212.77,15744.61,Pending
+PO-00070,2025-12-20,Goods Receipt,SUP011,Vertex Marketing,Marketing,Promotional materials,Corporate,North,39,322.71,12585.81,Pending
+PO-00597,2025-12-20,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Equipment servicing,Corporate,West,77,212.32,16348.88,Paid
+PO-00430,2025-12-22,Goods Receipt,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Operations,North,65,51.17,3325.92,Paid
+PO-00292,2025-12-22,Invoice,SUP011,Vertex Marketing,Marketing,Print advertising,Technology,West,32,325.52,10416.72,Pending
+PO-00111,2025-12-22,Purchase Order,SUP005,Metro Logistics,Logistics,Courier services,Technology,East,102,15.71,1601.94,Pending
+PO-00230,2025-12-23,Purchase Order,SUP005,Metro Logistics,Logistics,Freight services,Corporate,South,76,248.92,18918.12,Overdue
+PO-00445,2025-12-23,Goods Receipt,SUP012,Pioneer Hardware,Logistics,Courier services,Manufacturing,West,117,28.69,3356.46,Paid
+PO-00054,2025-12-23,Goods Receipt,SUP007,BrightClean Facilities,Facilities,Cleaning services,Corporate,West,84,53.36,4482.44,Paid
+PO-00263,2025-12-23,Goods Receipt,SUP010,Urban Energy Solutions,Utilities,Water services,Technology,West,31,232.64,7211.78,Pending
+PO-00375,2025-12-25,Purchase Order,SUP006,Metro Logistics Pvt Ltd,Logistics,Courier services,Manufacturing,East,73,237.47,17335.38,Paid
+PO-00223,2025-12-25,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Pens and stationery,Operations,West,54,148.25,8005.77,Overdue
+PO-00068,2025-12-25,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Corporate,South,78,68.0,5304.12,Pending
+PO-00341,2025-12-26,Purchase Order,SUP007,BrightClean Facilities,Facilities,Facility maintenance,Corporate,East,79,122.96,9713.78,Paid
+PO-00043,2025-12-26,Purchase Order,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Sales,East,61,13.32,812.4,Pending
+PO-00481,2025-12-26,Goods Receipt,SUP012,Pioneer Hardware,Maintenance,Tools and supplies,Operations,North,10,1168.05,11680.51,Pending
+PO-00378,2025-12-27,Invoice,SUP003,Northstar IT Services,IT Services,Software support,Technology,West,111,233.64,25933.63,Overdue
+PO-00320,2025-12-27,Goods Receipt,SUP005,Metro Logistics,Logistics,Warehouse handling,Corporate,South,110,75.73,8330.16,Pending
+PO-00586,2025-12-29,Goods Receipt,SUP001,Apex Office Supplies,Office Supplies,Printer paper,Technology,North,6,812.13,4872.78,Paid
+PO-00380,2025-12-29,Invoice,SUP009,Summit Consulting,Professional Services,Business consulting,Manufacturing,South,101,281.56,28437.18,Pending
+PO-00167,2025-12-29,Invoice,SUP002,Apex Office Supply Ltd,Office Supplies,Printer paper,Manufacturing,North,102,67.21,6855.03,Overdue
+PO-00420,2025-12-29,Purchase Order,SUP010,Urban Energy Solutions,Utilities,Natural gas,Manufacturing,West,92,68.0,6255.83,Overdue
+PO-00414,2025-12-30,Invoice,SUP011,Vertex Marketing,Marketing,Print advertising,Technology,South,110,146.65,16131.24,Pending
+PO-00473,2025-12-30,Goods Receipt,SUP003,Northstar IT Services,Professional Services,Audit support,Technology,West,100,183.47,18346.77,Overdue
+PO-00356,2025-12-31,Goods Receipt,SUP005,Metro Logistics,Logistics,Courier services,Technology,West,115,245.28,28207.06,Overdue
+PO-00347,2025-12-31,Invoice,SUP010,Urban Energy Solutions,Utilities,Electricity,Sales,South,66,136.23,8991.12,Pending
